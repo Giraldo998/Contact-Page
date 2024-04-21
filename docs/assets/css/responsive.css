@@ -1,4 +1,7 @@
 @media (max-width: 1024px)  {
+   .body-header .logo {
+      left: 30px;
+   }
    .form-contact{
       width: 955px;
    }
